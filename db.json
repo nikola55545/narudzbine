@@ -2,7 +2,6 @@
     "cars": [
       {
         "id": 0,
-        "image": "https://firebasestorage.googleapis.com/v0/b/cs330-projekat-351510.appspot.com/o/CS330-Slike%2Fbmw%2Fbmw_i8_orange.png?alt=media&token=82bdcf97-73f4-4986-ad69-193320e7bb19",
         "manufacturer": "BMW",
         "model": "i8",
         "price_per_day": 299,
